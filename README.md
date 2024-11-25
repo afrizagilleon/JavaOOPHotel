@@ -1,0 +1,2 @@
+# JavaOOPHotel
+using interface
